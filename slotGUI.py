@@ -1,5 +1,5 @@
 """
-program labeldemo.py
+program Slots.py
 author mike 4/26/2021
 """
 
